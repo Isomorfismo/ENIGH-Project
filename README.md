@@ -137,5 +137,5 @@ This project demonstrates that salary-based income can be reasonably predicted u
 ### Collaborators
 * Piña Del Valle José
 * Arias Morales Yahir
-* Ayala García Oscar Galo
+* [@Isomorfismo](https://github.com/Isomorfismo)
 * Rivera García Axel Maximiliano
